@@ -1,0 +1,5 @@
+env/
+*.pyc echo __pycache__/ echo db.sqlite3 echo .DS_Store
+*.pyc echo __pycache__/ echo db.sqlite3 echo .DS_Store
+*.pyc echo __pycache__/ echo db.sqlite3 echo .DS_Store
+*.pyc echo __pycache__/ echo db.sqlite3 echo .DS_Store
