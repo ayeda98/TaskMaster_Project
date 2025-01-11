@@ -1,7 +1,7 @@
 # Task Manager API
 ## Setup Instructions
 1. **Clone the repository** :
-   git clone <URL_TO_YOUR_REPOSITORY>
+   git clone <https://github.com/ayeda98/TaskMaster_Project.git>
    cd task_manager
 
 2. Create a virtual environment and activate it :
